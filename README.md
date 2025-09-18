@@ -4,11 +4,11 @@ A simple and intuitive To-Do application built with **HTML**, **CSS**, and **Jav
 
 ## 🖼️ Screenshots
 
-![To-Do App Interface](/img/Screenshot 2025-09-18 000448.png)
+![To-Do App Interface](/img/Screenshot%202025-09-18%20000448.png)
 
-![To-Do App Interface](/img/Screenshot 2025-09-18 000435.png)
+![To-Do App Interface](/img/Screenshot%202025-09-18%20000435.png)
 
-![To-Do App Interface](/img/Screenshot 2025-09-18 000422.png)
+![To-Do App Interface](/img/Screenshot%202025-09-18%20000422.png)
 
 *Example of the To-Do App interface.*
 
