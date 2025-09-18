@@ -25,7 +25,6 @@ A simple and intuitive To-Do application built with **HTML**, **CSS**, and **Jav
 - **HTML**: Structure of the application.
 - **CSS**: Styling and layout.
 - **JavaScript**: Functionality and interactivity.
-
 ## 📦 Installation
 
 1. Clone the repository:
